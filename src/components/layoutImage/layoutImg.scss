@@ -1,0 +1,12 @@
+ .css-uym98a-MuiImageList-root {
+  overflow-y: visible !important;
+   padding: 10px 50px !important;
+    gap: 5px !important;
+  width: 100% !important;
+  height: auto !important;
+  @media ( max-width: 600px) {
+   padding: 0 !important;
+  }
+}
+
+// MuiImageList-root MuiImageList-quilted css-uym98a-MuiImageList-root

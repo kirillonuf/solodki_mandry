@@ -1,0 +1,86 @@
+.header {
+  padding: 10px 10px 10px 110px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  padding-left: 120px;
+  background: #ffffff;
+  width: 100%;
+  height: 120px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: stretch;
+
+  .logo {
+    background-color: white;
+    top: 20px;
+    left: 20px;
+    @media (max-width: 600px) {
+      left: 0;
+    }
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 5;
+    svg {
+      padding-bottom: 10px;
+    }
+    .s0 {
+      fill: #b1dce3;
+    }
+    .s1 {
+      fill: #672a08;
+    }
+  }
+
+  .nameShop {
+    height: 50%;
+    text-align: center;
+    color: #b1dce3;
+    font-size: calc(30px + 16 * (100vw / 1280));
+    line-height: 100%;
+    @media (max-width: 600px) {
+      width: 100%;
+      font-size: calc(25px + 1.25vw);
+    }
+  }
+
+  .navigate {
+    padding-top: 5px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    a {
+      color: #672a08;
+      text-decoration: none;
+    }
+
+    font-size: calc(6px + 16 * (100vw / 1280));
+    line-height: 100%;
+    @media (max-width: 600px) {
+      padding-top: 15px;
+      font-size: 16px;
+      width: 100%;
+      flex-wrap: wrap;
+      a {
+        width: 50%;
+        padding: 5px;
+      }
+    }
+
+    a:hover {
+      transition: 0.5s linear;
+      color: #abd7e0;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  }
+}

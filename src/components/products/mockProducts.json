@@ -1,0 +1,188 @@
+ [
+{
+    "id":0,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg gertgl [.wgrtve[,  trylyt;ty,hl eryreuyrtyu yhrtyryrtutyo98u ertyrtyrtuy pdfgdgb dsgvdfgdkipef [;hleroc ",
+"country":"Україна",
+"codeFlag":"UA"
+
+},
+
+{
+    "id":1,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Польща",
+"codeFlag":"PL"
+
+},
+{
+    "id":2,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[7].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[7].use[2]!./node_modules/resolve-url-loader/index.js??ruleSet[1].rules[1].oneOf[7].use[3]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[1].oneOf[7].use[4]!./src/components/footer/footer.scss 1000 bytes [built] [code generated] webpack 5.70.0 compiled successfully in 227 ms sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Латвія",
+"codeFlag":"lv"
+
+},
+{
+    "id":3,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Бразилія",
+"codeFlag":"br"
+},
+{
+    "id":4,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Греція",
+    "codeFlag":"gr"
+},
+{
+    "id":5,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Грузія",
+    "codeFlag":"ge"
+},
+{
+    "id":6,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Франція",
+    "codeFlag":"fe"
+},
+{
+    "id":7,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Україна",
+    "codeFlag":"UA"
+},
+{
+    "id":8,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Грузія",
+    "codeFlag":"ge"
+},
+{
+    "id":9,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Франція",
+    "codeFlag":"fe"
+},
+{ "id":10,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Угорщина",
+    "codeFlag":"hu"
+},
+{
+    "id":11,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Україна",
+    "codeFlag":"UA"
+},
+{
+    "id":12,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc "
+
+},
+{
+    "id":13,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Грузія",
+    "codeFlag":"ge"
+},
+{
+    "id":14,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgdfggdfg dsghdfhdfh htrfuikvdfgdkipeghertg erterterte rtertertertertwetrtof [;hleroc "
+    ,"country":"Мексика",
+    "codeFlag":"mx"
+},
+{
+    "id":15,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Італія",
+    "codeFlag":"it"
+},
+{
+    "id":16,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Франція",
+    "codeFlag":"fe"
+},
+{
+    "id":17,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Норвегія",
+    "codeFlag":"no"
+},
+{
+    "id":18,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Греція",
+    "codeFlag":"gr"
+},
+{
+    "id":19,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc "
+    ,"country":"Мексика",
+    "codeFlag":"mx"
+},
+{
+    "id":20,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Польща",
+    "codeFlag":"PL"
+},
+{
+    "id":21,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgvdfgdkipef [;hleroc ",
+    "country":"Україна",
+    "codeFlag":"UA"
+},
+{
+    "id":22,
+    "imageUrl":"https://lh3.googleusercontent.com/-GqfP6-HCdHU/Xgm4jW5KtwI/AAAAAAABM8M/_-Rzl_c2wP4a2SeNrjfOAtiVPEpPmwKAACLIBGAYYCw/w768-h768-n-o-k-v1/",
+    "nameProduct":"cake",
+    "description":"Lorem  sdgdsrtg  dfgdgb dsgdfggdfg dsghdfhdfh htrfuikvdfgdkipeghertg erterterte rtertertertertwetrtof [;hleroc "
+    ,"country":"Португалия",
+    "codeFlag":"pt"
+}
+]
