@@ -1,6 +1,6 @@
 // import { Input } from 'antd';
 import React from 'react';
-import 'antd/dist/antd.css'
+import 'antd/dist/antd.min.css'
 // export const InputName = () => <Input size='large' placeholder="Basic usage" />;
 
 

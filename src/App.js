@@ -4,25 +4,20 @@ import { Footer } from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import { Page } from "./components/page/Page";
 import './App.css'
-import { errorsContext,jwtContext } from "./utils/context";
+import { errorsContext } from "./utils/context";
 
 function App() {
-const [errors,setErrors]=React.useState({})
+  const [errors, setErrors] = React.useState({})
 
-// const [tokrn,setToken] =React.useState('')
   return (
-<errorsContext.Provider value={{errors,setErrors}}>
-    <div className="App">
-      <Header />
-      
+    <errorsContext.Provider value={{ errors, setErrors }}>
+      <div className="App">
+        <Header />
         <Page />
-      
-      
-      <Footer />
-    </div>
+        <Footer />
+      </div>
     </errorsContext.Provider>
 
   );
 }
-
 export default App;

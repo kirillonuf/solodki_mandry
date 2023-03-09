@@ -1,9 +1,8 @@
 import { Input } from 'antd';
-import ReactDOM from 'react-dom';
 import React from 'react';
 
 
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.min.css';
 const { TextArea } = Input;
 class Description extends React.Component {
   state = {

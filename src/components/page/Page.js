@@ -1,5 +1,5 @@
-import React, {  useContext } from 'react'
-import { Routes, Route,} from "react-router-dom";
+import React, { useContext } from 'react'
+import { Routes, Route, } from "react-router-dom";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -12,39 +12,34 @@ import { Auth } from '../admin/Auth';
 
 import './page.scss';
 import { ManagementProducts } from '../admin/ManagementProducts';
-  import {jwtContext,codeCountry} from '../../utils/context'
+import { jwtContext, codeCountry } from '../../utils/context'
 
 export const Page = () => {
-    const keyStorage ='userKey'
+    const keyStorage = 'userKey'
     console.log(localStorage.getItem(keyStorage));
-const [auth,setAuth] =React.useState(!!localStorage.getItem(keyStorage));
-const [code,setCode] =React.useState('');
-
-
-//  React.useEffect(()=>{console.log("auth",auth);},[localStorage.getItem(keyStorage)])
-
+    const [auth, setAuth] = React.useState(!!localStorage.getItem(keyStorage));
+    const [code, setCode] = React.useState('');
 
     return (<div className="container">
 
         <div className='content'>
-        <jwtContext.Provider value={{auth,setAuth,keyStorage}} >
-            <codeCountry.Provider value={{code,setCode}}>
-                <Routes>
-                    <Route path="/" element={<MainPage />} />
-                    <Route path="admin" element={auth?<ManagementProducts/>:<Auth/>} />
-                    <Route path="products" element={<Products />} />
-                    <Route ex path='products/:productId' element={<ProductById />} />
-                    <Route path="about" element={<AboutUs />} />
-                    <Route path="contacts" element={<Contacts />} />
-
-                    <Route path="*" element={<div>NOT FOUND</div>} />
-                </Routes>
-            </codeCountry.Provider>
+            <jwtContext.Provider value={{ auth, setAuth, keyStorage }} >
+                <codeCountry.Provider value={{ code, setCode }}>
+                    <Routes>
+                        <Route path="/" element={<MainPage />} />
+                        <Route path="admin" element={auth ? <ManagementProducts /> : <Auth />} />
+                        <Route path="products" element={<Products />} />
+                        <Route ex path='products/:productId' element={<ProductById />} />
+                        <Route path="about" element={<AboutUs />} />
+                        <Route path="contacts" element={<Contacts />} />
+                        <Route path="*" element={<div>NOT FOUND</div>} />
+                    </Routes>
+                </codeCountry.Provider>
             </jwtContext.Provider>
 
             <ToastContainer
                 position="top-center"
-                autoClose={5000}
+                autoClose={4000}
                 hideProgressBar={false}
                 newestOnTop={false}
                 closeOnClick
@@ -53,11 +48,6 @@ const [code,setCode] =React.useState('');
                 draggable
                 pauseOnHover
             />
-
-         
         </div>
-
     </div>)
-
-
 }

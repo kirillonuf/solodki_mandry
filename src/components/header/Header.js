@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Link } from "react-router-dom";
 import './header.scss';
 const Header = () => {
@@ -33,12 +32,9 @@ const Header = () => {
 				<Link to={"/products"}>Продукція</Link>
 				<Link to={"/about"}>Про Нас</Link>
 				<Link to={"/contacts"}>Контакти</Link>
-
 			</nav>
 
 		</div>
 	)
-
-
 }
 export default Header;

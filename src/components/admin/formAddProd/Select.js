@@ -1,7 +1,7 @@
 import { Select } from 'antd';
 
 import React from 'react';
-import 'antd/dist/antd.css'
+import 'antd/dist/antd.min.css'
 import { countries } from '../../../utils/listCountry';
 const { Option } = Select;
 
